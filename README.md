@@ -82,8 +82,7 @@ The dataset contains customer information, including:
 > Add your dashboard screenshot here.
 
 ```markdown
-![Bike Sales Dashboard](Images/BikeSalesDashboard.png)
-```
+![Bike Sales Dashboard]
 
 ---
 
