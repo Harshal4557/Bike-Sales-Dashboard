@@ -82,8 +82,7 @@ The dataset contains customer information, including:
 > Add your dashboard screenshot here.
 
 ```markdown
-![Bike Sales Dashboard]
-
+![Bike Sales Dashboard]Screenshot 2026-08-02 131451.png
 ---
 
 ## 📁 Repository Structure
