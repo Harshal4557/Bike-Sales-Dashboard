@@ -79,7 +79,7 @@ The dataset contains customer information, including:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](Dashboard.png)
 ```
 Bike-Sales-Dashboard
 │
