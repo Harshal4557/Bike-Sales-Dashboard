@@ -84,7 +84,7 @@ The dataset contains customer information, including:
 ```markdown
 ## 📸 Dashboard Preview
 
-![Dashboard Demo]()
+![Dashboard Demo](Screenshot 2026-08-02 131451.png)
 ---
 
 
